@@ -9,6 +9,8 @@ import android.widget.FrameLayout;
 import android.widget.Scroller;
 
 /**
+ * 自定义的ScrollLayout下拉滑动组件
+ *
  * @auther MaxLiu
  * @time 2017/2/18
  */
